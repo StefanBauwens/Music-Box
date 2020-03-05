@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6F69D369-E583-DFC8-8096-CB9DAD493C13}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Track.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Track.cs" Line="246" Column="20" />
+      <File FileName="Assets/Scripts/pianoKey.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/highlightBlack.cs" Line="1" Column="1" />
+      <File FileName="Assets/StandaloneFileBrowser/Sample/BasicSample.cs" Line="36" Column="105" />
+      <File FileName="Assets/Scripts/OpenFile.cs" Line="34" Column="137" />
+      <File FileName="Assets/StandaloneFileBrowser/Sample/CanvasSampleSaveFileText.cs" Line="49" Column="41" />
+      <File FileName="Assets/StandaloneFileBrowser/Sample/CanvasSampleOpenFileText.cs" Line="49" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Music_220Box PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
